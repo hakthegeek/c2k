@@ -1,5 +1,5 @@
 #!/bin/bash
-#this script is to turn debian into kali. it has only been tested with digital ocean
+#this script is to turn debian into kali
 
 #The Basics
 sudo apt-get -y update
